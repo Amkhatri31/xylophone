@@ -1,6 +1,8 @@
-# xylophone
+# xylophone🎹
 
-A new Flutter project.
+A musical xylophone flutter application.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
 ## Getting Started
 
